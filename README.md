@@ -18,4 +18,4 @@ Bu proje, React, Axios, Bootstrap, JSON Server ve react-router-dom kullanılarak
 - [JSON Server](https://github.com/typicode/json-server) - Sahte bir REST API oluşturmak için.
 - [React Router](https://reactrouter.com/) - Sayfa yönlendirmesi için.
 - [Vite](https://vitejs.dev/) - Hızlı geliştirme ortamı için.
-# BookStoreReact
+# Ekran Görüntüsü
