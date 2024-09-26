@@ -19,3 +19,7 @@ Bu proje, React, Axios, Bootstrap, JSON Server ve react-router-dom kullanılarak
 - [React Router](https://reactrouter.com/) - Sayfa yönlendirmesi için.
 - [Vite](https://vitejs.dev/) - Hızlı geliştirme ortamı için.
 # Ekran Görüntüsü
+
+
+https://github.com/user-attachments/assets/e98aead5-cdeb-495c-9b96-5e2cf610b476
+
