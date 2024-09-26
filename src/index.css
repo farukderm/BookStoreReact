@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  color: wheat;
+}
+
+.cards-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 50px;
+  margin-top: 30px;
+}
+.card-body {
+  background-color: white;
+}
+.page {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.image {
+  width: 100%;
+  max-width: 600px;
+}
