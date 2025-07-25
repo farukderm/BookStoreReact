@@ -20,6 +20,7 @@ Bu proje, React, Axios, Bootstrap, JSON Server ve react-router-dom kullanılarak
 - [Vite](https://vitejs.dev/) - Hızlı geliştirme ortamı için.
 # Ekran Görüntüsü
 
+![bookstore](https://github.com/user-attachments/assets/01a638f7-e3d0-409d-986e-3e0d0a885ba9)
 
-https://github.com/user-attachments/assets/e98aead5-cdeb-495c-9b96-5e2cf610b476
+
 
